@@ -2,3 +2,5 @@ github has a repository
 how to use github
 the weather isn't so good 
 the weather today is good
+here is a new branch
+here will merge a new branch
